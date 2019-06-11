@@ -1,0 +1,8 @@
+{
+  "name": "todo",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "aab71635"
+}
